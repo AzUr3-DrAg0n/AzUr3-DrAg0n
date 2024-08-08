@@ -3,7 +3,7 @@ nickname: Azure (wont put my real name👍)
 age: wont say but not 18+
 pronous: She/her
 sexuality: lesbian
-hobies: art, music
+hobbies: art, music
 <!---
 AzUr3-DrAg0n/AzUr3-DrAg0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
